@@ -1,7 +1,16 @@
+body {
+    background: black;
+}
+
 #title, .subtitle, .post_title {
-    color: darkgoldenrod;
+    color: white;
 }
 .post_title {
     font-size: 16px;
     font-style: italic;
+}
+.post {
+    background: white;
+    padding: 10px 10px 18px 10px;
+    border: 3px dotted #000;
 }
